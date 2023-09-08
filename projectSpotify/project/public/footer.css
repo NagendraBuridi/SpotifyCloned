@@ -1,0 +1,70 @@
+#footer{
+    border: 2px solid;
+    height: 550px;
+    width: 100%;
+    margin-top: 468px;
+    background-color: #000;
+}
+.footer{
+    /* border: 2px solid red;  */
+    height: inherit;
+    width: 75%;
+    margin: auto;
+    padding-top: 60px;
+    display: flex;
+    align-content: center;
+}
+span svg{
+    /* border: 2px solid red; */
+    height: 3em;
+    fill: #fff;
+}
+
+.content h3{
+    color: darkgrey;
+    text-align: center;
+}
+.content ol{
+    list-style: none;
+    padding: 20px;
+    text-align: left;
+}
+.content ol li{
+    color: #fff;
+    padding: 10px;
+}
+.content ol li:hover{
+    cursor: pointer;
+    color:  #1ed760;
+}
+
+.content span i{
+    color: #fff;
+    padding: 20px;
+    margin-left: 50px;
+
+}
+.content span i:hover{
+    cursor: pointer;
+    color:  #1ed760;
+}
+#sub-footer{
+    color: darkgrey;
+    background-color: #000;
+    margin-top: -80px;
+    margin-left: 10%;
+        
+}
+#sub-footer span{
+    padding: 15px;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+#sub-footer span:hover{
+    cursor: pointer;
+    color:  #1ed760;
+}
+.s-f{
+    margin-left: 450px;
+    padding:0%;
+}
